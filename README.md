@@ -16,16 +16,15 @@ Throughout this lesson, I’ve learned about:
 - [x]  Calling fonts from Google Fonts
 - [x]  Margin, Border, Padding
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Hometown Homepage](https://user-images.githubusercontent.com/80773310/198334333-703c2d6d-1e5a-4145-981e-62e90e21987c.png)
 
 ## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Background | ![#202731](https://via.placeholder.com/10/202731?text=+) #202731 |
-| Wave | ![#84A9AC](https://via.placeholder.com/10/84A9AC?text=+) #84A9AC |
-| Second Wave | ![#FF7578](https://via.placeholder.com/10/FF7578?text=+) #FF7578 |
+| Background | ![#202731](https://placehold.co/15x15/202731/202731.png) #202731|
+| Wave | ![#84A9AC](https://placehold.co/15x15/84A9AC/84A9AC.png) #84A9AC|
+| Second Wave | ![#FF7578](https://placehold.co/15x15/FF7578/FF7578.png) #FF7578|
 
 
 ## Authors
