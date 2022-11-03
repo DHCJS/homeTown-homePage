@@ -2,9 +2,7 @@
 # HomeTown Homepage
 
 In this project, I re-create the Scrimba Hometown Homepage project. Even though I’ve finished Freecodecamp Responsive Web Design, I struggle with lining up an object in CSS. On Freecodecamp, I tend to code what the instruction says without seeing the result, making me work to see what happens visually. Especially on display: flexbox on the padding, border, and margin.
-But after googling the trial errors in this project, I built from scratch. I can say that I am confident for now in the matter of placing items using CSS and creating a semantic HTML element.
-
-
+But after googling the trial errors in this project, I built from scratch. I can say that I am confident for now in the matter of placing items using CSS and creating a semantic HTML element. Here is the [Netlify](https://strong-fudge-9a5543.netlify.app/)
 
 ## Lessons Learned
 
@@ -34,4 +32,3 @@ Throughout this lesson, I’ve learned about:
 
 ![Medium Logo](https://user-images.githubusercontent.com/80773310/199714292-47f791ff-6245-49d2-baf3-e09abcce67e9.png)
  You can read more about my approach on this project on [Medium](https://medium.com/p/98f6a7a96b84/)
-
